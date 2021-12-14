@@ -1,5 +1,4 @@
-const blob = new Blob(['importScripts("./scripts/lzma_worker.js");']);
-const lzma = new LZMA(window.URL.createObjectURL(blob));
+const lzma = new LZMA("./scripts/lzma_worker.js");
 
 let editor = null;
 let select = null;
