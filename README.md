@@ -1,3 +1,14 @@
+# About this repository:
+
+This repository contains PussTheCat.org-NoPaste, a fork of [NoPaste](https://github.com/bokub/nopaste) for [PussTheCat.org](https://pussthecat.org/) focused on removing [resources calls from CDNs](https://github.com/bokub/nopaste/issues/1).
+
+This project is maintained because the [NoPaste](https://github.com/bokub/nopaste)'s developer didn't want to upstream the changes because "the point of NoPaste is to be super light (only 5 files are needed to make it work), not to be a huge repo containing dozens of copies of external dependencies!".
+
+This project mostly exist for the [PussTheCat.org](https://pussthecat.org/) [instance](https://nopaste.pussthecat.org/), but others are free to use it.
+
+A massive thanks for the NoPaste developer for making NoPaste, and for [helping me make this fork](https://github.com/bokub/nopaste/issues/1#issuecomment-993593917).
+
+
 [![Intro](https://github.com/bokub/nopaste/raw/images/intro.png)][intro-img]
 
 # What is NoPaste?
